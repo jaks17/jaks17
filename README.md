@@ -1,6 +1,5 @@
 
 ## Hi I'm jagan kumar <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
-<img align="right" alt="GIF" src="https://cdn.dribbble.com/users/99875/screenshots/6577029/2019-06-03_paddle-ball.gif" width="55%" height="50%" />
 
 I Spend most of time learning and also coding outstanding projects.
 
@@ -45,35 +44,9 @@ I Spend most of time learning and also coding outstanding projects.
 <hr>
 
 
-#### Buisiness
+#### Contact
 <!--- :paperclip: [My Resume](https://github.com/dharmapra2/dharmapra2/blob/master/resumes/resume_dharma.pdf)-->
 - :email: jagkmr14356@gmail.com
 
-
-#### Profile Visits 
-
-![visitors](https://visitor-badge.glitch.me/badge?page_id=jaks17.jaks17)
-
-<details>
-<summary>
-  More stuff about me
-</summary>
-
-<br >
-
-<!-- I love sharing knowledge and putting tutorials, courses and posts together for helping other developers, and tjat's why CoderOne Youtube Channel exists! -->
-
-<!-- #### What is CoderOne?
-
-CoderOne is a youtube channel for learning Web/Mobile development, coding and design. Including new technologies and frameworks and anything really related to development world. -->
-
-#### Coding Stats
-
-![coading](https://github-readme-stats.vercel.app/api/top-langs/?username=jaks17)
-
-
-#### Github Stats
-
-![Ipenywis's github stats](https://github-readme-stats.vercel.app/api?username=jaks17&count_private=true&theme=tokyonight&hide=contribs,prs)
-
 </details>
+!
