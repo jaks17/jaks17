@@ -11,7 +11,7 @@ I Spend most of time learning and also coding outstanding projects.
 
 <!-- TODO: Add last video link ?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3BqYlpa%2BJaS5%2BwgJfFXSpkMQ%3D%3D -->
 
-- 🔭I'm working on **FULL STACKAPPLICATION** right now.
+- 🔭I'm work on **FULL STACK DEVELOPMENT** right now.
 - 🌱I have training in HTML, CSS, JavaScript, Java, and SQL_db.
 - 🤕 I'm searching for creative ideas.
 - ⚡Fun fact: I go to the gym and play games.
